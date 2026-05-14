@@ -1,0 +1,14 @@
+C:\Users\ramesh\OneDrive\Desktop\.Net\day 6 assessment\OrderApp\bin\Debug\net10.0\OrderApp.exe
+C:\Users\ramesh\OneDrive\Desktop\.Net\day 6 assessment\OrderApp\bin\Debug\net10.0\OrderApp.deps.json
+C:\Users\ramesh\OneDrive\Desktop\.Net\day 6 assessment\OrderApp\bin\Debug\net10.0\OrderApp.runtimeconfig.json
+C:\Users\ramesh\OneDrive\Desktop\.Net\day 6 assessment\OrderApp\bin\Debug\net10.0\OrderApp.dll
+C:\Users\ramesh\OneDrive\Desktop\.Net\day 6 assessment\OrderApp\bin\Debug\net10.0\OrderApp.pdb
+C:\Users\ramesh\OneDrive\Desktop\.Net\day 6 assessment\OrderApp\obj\Debug\net10.0\OrderApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramesh\OneDrive\Desktop\.Net\day 6 assessment\OrderApp\obj\Debug\net10.0\OrderApp.AssemblyInfoInputs.cache
+C:\Users\ramesh\OneDrive\Desktop\.Net\day 6 assessment\OrderApp\obj\Debug\net10.0\OrderApp.AssemblyInfo.cs
+C:\Users\ramesh\OneDrive\Desktop\.Net\day 6 assessment\OrderApp\obj\Debug\net10.0\OrderApp.csproj.CoreCompileInputs.cache
+C:\Users\ramesh\OneDrive\Desktop\.Net\day 6 assessment\OrderApp\obj\Debug\net10.0\OrderApp.dll
+C:\Users\ramesh\OneDrive\Desktop\.Net\day 6 assessment\OrderApp\obj\Debug\net10.0\refint\OrderApp.dll
+C:\Users\ramesh\OneDrive\Desktop\.Net\day 6 assessment\OrderApp\obj\Debug\net10.0\OrderApp.pdb
+C:\Users\ramesh\OneDrive\Desktop\.Net\day 6 assessment\OrderApp\obj\Debug\net10.0\OrderApp.genruntimeconfig.cache
+C:\Users\ramesh\OneDrive\Desktop\.Net\day 6 assessment\OrderApp\obj\Debug\net10.0\ref\OrderApp.dll
